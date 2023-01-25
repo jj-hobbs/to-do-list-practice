@@ -188,4 +188,4 @@ function clearAll() {
 clear__all.addEventListener('click', clearAll);
 
 // Refresh Page
-refresh.addEventListener('click', () => location.href = location.href);
+refresh.addEventListener('click', () => location.href = location.href);marvis
